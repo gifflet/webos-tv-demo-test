@@ -1,25 +1,5 @@
 # WebOS TV Demo Test Automation
 
-Welcome to the WebOS TV Demo Test Automation project! 🎉 This project is designed to automate the testing of a WebOS TV application using Appium and JUnit. 
-
-## Table of Contents
-
-- [WebOS TV Demo Test Automation](#webos-tv-demo-test-automation)
-  - [Table of Contents](#table-of-contents)
-  - [Features](#features)
-  - [Getting Started](#getting-started)
-    - [Prerequisites](#prerequisites)
-    - [Installation](#installation)
-    - [Configuration](#configuration)
-  - [Running Tests](#running-tests)
-
-## Features
-
-- Automated login tests for a WebOS TV application.
-- Utilizes Appium for mobile automation.
-- Written in Java with JUnit for testing framework.
-- Page Object Model (POM) design pattern for better maintainability.
-
 ## Getting Started
 
 To get started with this project, follow these steps:
