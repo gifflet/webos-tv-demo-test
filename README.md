@@ -29,6 +29,7 @@ To get started with this project, follow these steps:
 - Java 11 or higher
 - Maven
 - Appium server
+- Appium WebOS driver from [appium-lg-webos-driver](https://github.com/headspinio/appium-lg-webos-driver)
 - An LG WebOS TV device or emulator
 - The WebOS demo app from [WebOS User App Demo](https://github.com/gifflet/webos-user-app-demo)
 
